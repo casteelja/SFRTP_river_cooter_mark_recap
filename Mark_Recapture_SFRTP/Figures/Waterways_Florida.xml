@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20040101</pubdate>
+                <title>Waterway Navigation Routes Southeast United States</title>
+                <geoform>vector digital data</geoform>
+                <onlink>http://atoll.floridamarine.org/KMZ_files/Boating - Waterways - SE US.kmz</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>These GIS data depict navigational routes commonly used in Florida. Many of these routes are officially designated navigational channels or waterways. Others are just well known but unmarked pathways from one location to another. These data were digitized from NOAA Nautical charts (image files) of various dates and map scales, using most detailed charts for the area and feature of interest. Where depicted on the charts, channel centerlines and waterway routes were followed. Otherwise, AToNs depicted on the charts were used as guides to trace navigation pathways. This data set does not depict all navigational pathways but should serve as a start to a more comprehensive data set.</abstract>
+            <purpose>This data set was developed to display paths of navigation that boaters use in Florida. However not all of these pathways are channels or of verified depth. These data are not to be used for navigation.</purpose>
+            <supplinf>Prior to July 1, 2004, the Fish and Wildlife Research Institute (FWRI) was known as the Florida Marine Research Institute (FMRI). The institute name has not been changed in historical data sets or references to work completed by the Florida Marine Research Institute. The institute name has been changed in references to ongoing research, new research, and contact information. These data are not to be used for navigation.</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20030101</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>Unknown</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-88.81084</westbc>
+                <eastbc>-79.848605</eastbc>
+                <northbc>31.177401</northbc>
+                <southbc>24.393977</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+                <themekey>geoscientificInformation</themekey>
+            </theme>
+            <theme>
+                <themekt>FWRItheme</themekt>
+                <themekey>GIS</themekey>
+                <themekey>coastal</themekey>
+                <themekey>boating</themekey>
+                <themekey>mapping</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+                <themekey>transportation</themekey>
+                <themekey>inlandWaters</themekey>
+                <themekey>oceans</themekey>
+            </theme>
+            <place>
+                <placekt>FWC Region</placekt>
+                <placekey>FWC Region-North Central</placekey>
+                <placekey>FWC Region-South</placekey>
+                <placekey>FWC Region-Northwest</placekey>
+                <placekey>FWC Region-Northeast</placekey>
+                <placekey>FWC Region-Southwest</placekey>
+            </place>
+            <place>
+                <placekt>Florida Waterbodies</placekt>
+            </place>
+            <place>
+                <placekt>Florida Counties</placekt>
+            </place>
+            <place>
+                <placekt>FWRIplace</placekt>
+                <placekey>Florida Keys</placekey>
+                <placekey>Florida</placekey>
+                <placekey>southwest Florida</placekey>
+                <placekey>southeast Florida</placekey>
+                <placekey>east coast of Florida</placekey>
+                <placekey>northwest Florida</placekey>
+                <placekey>statewide</placekey>
+                <placekey>west coast of Florida</placekey>
+                <placekey>south Florida</placekey>
+                <placekey>north Florida</placekey>
+                <placekey>northeast Florida</placekey>
+            </place>
+            <place>
+                <placekt>Water Management Districts</placekt>
+                <placekey>St. Johns River Water Management District</placekey>
+                <placekey>Southwest Florida Water Management District</placekey>
+                <placekey>Suwannee River Water Management District</placekey>
+                <placekey>South Florida Water Management District</placekey>
+                <placekey>Northwest Florida Water Management District</placekey>
+            </place>
+        </keywords>
+        <accconst>Available with Caution. All data must be verified by Principal Investigator or Group Database Analyst prior to release. It is strongly recommended that this data is directly acquired from FWC and not indirectly through other sources which may have changed the data in some way. FWC makes no claims as to the data's suitability for other purposes.</accconst>
+        <useconst>Acknowledgement of the FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute) as the data source would be appreciated in any products developed from these data, and such acknowledgment as is standard for citation and legal practices for data source is expected by users of this data. Please cite the original metadata when using portions of the record to create a similar record of slightly altered data, such as reprojection. If any data are modified or adjusted, please share the edited information with FWC. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. FWC shall not be liable for improper or incorrect use of this data. These data are not legal documents and are not to be used as such. This is not a survey data set and should not be utilized as such. These data are not to be used for navigation.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+                    <cntper>GISLibrarian</cntper>
+                </cntorgp>
+                <cntpos>GIS Data Librarian</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</address>
+                    <city>St. Petersburg</city>
+                    <state>Florida</state>
+                    <postal>33701</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>727-896-8626</cntvoice>
+                <cntfax>727-893-1679</cntfax>
+                <cntemail>GISLibrarian@MyFWC.com</cntemail>
+                <hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+            </cntinfo>
+        </ptcontac>
+        <secinfo>
+            <secsys>FWRI-DC</secsys>
+        </secinfo>
+        <native>ESRI ArcCatalog 8.3.0.800</native>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>The TYPE attribute is a subjective classification that generally described the nature of the pathway. This is not a verifiable attribute.</attraccr>
+        </attracc>
+        <logic>Not all pathways are connective.</logic>
+        <complete>This data set does not depict all navigational pathways.</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>Positional accuracy varies with charts used. These data are intended for general cartographic purposes only, and FWRI makes no guarantee of the positional accuracy.</horizpar>
+            </horizpa>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <title>National Oceanic and Atmospheric Administration Nautical Charts - various</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>None</typesrc>
+                <srccitea>National Oceanic and Atmospheric Administration Nautical Charts - various</srccitea>
+            </srcinfo>
+            <procstep>
+                <procdesc>Additional features were added to this data set in 2004 and a topology QC was performed to link major channels at their intersections.</procdesc>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+                            <cntper>GISLibrarian</cntper>
+                        </cntorgp>
+                        <cntpos>GIS Data Librarian</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</address>
+                            <city>St. Petersburg</city>
+                            <state>Florida</state>
+                            <postal>33701</postal>
+                            <country>US</country>
+                        </cntaddr>
+                        <cntvoice>727-896-8626</cntvoice>
+                        <cntfax>727-893-1679</cntfax>
+                        <cntemail>GISLibrarian@MyFWC.com</cntemail>
+                        <hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+            <procstep>
+                <procdesc>These data were digitized from NOAA Nautical charts (image files) of various dates and map scales, using most detailed charts for the area and feature of interest. Where depicted on the charts, channel centerlines and waterway routes were followed. Otherwise, AToNs depicted on the charts were used as guides to trace navigation pathways.</procdesc>
+            </procstep>
+            <procstep>
+                <procdesc>This file replaces the previous waterway file, as it is a work in progress. It reflects additional waterways. A geometry check was run before placement in the database.</procdesc>
+                <procdate>20060310</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+                            <cntper>GISLibrarian</cntper>
+                        </cntorgp>
+                        <cntpos>GIS Data Librarian</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</address>
+                            <city>St. Petersburg</city>
+                            <state>Florida</state>
+                            <postal>33701</postal>
+                            <country>US</country>
+                        </cntaddr>
+                        <cntvoice>727-896-8626</cntvoice>
+                        <cntfax>727-893-1679</cntfax>
+                        <cntemail>GISLibrarian@MyFWC.com</cntemail>
+                        <hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>Complete chain</sdtstype>
+                <ptvctcnt>2437</ptvctcnt>
+            </sdtsterm>
+            <sdtsterm>
+                <sdtstype>Complete chain</sdtstype>
+                <ptvctcnt>1287</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>FMRI.waterways_2004_arc</enttypl>
+                <enttypd>These line data represent paths of navigation.</enttypd>
+            </enttyp>
+            <attr>
+                <attrlabl>ENTRYDATE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE.len</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>TYPE</attrlabl>
+                <attrdef>A subjective classification of the navigational use of the feature; values are as follows: Marked Channel - Large Vessel = Inshore navigation routes used by large ocean going vessels, found only in major ports. These are officially marked and maintained. Usually with large buoys as these routes are in deep water. Marked Channel - Primary = Navigation routes heavily used by a variety of vessel types and capable of accommodating large commercial vessels such as barges. Usually major long distance thoroughfares. These are officially marked and maintained. The Intracoastal Waterway is included in this category. Marked Channel - Secondary = Navigation thoroughfares often providing access to "Marked Channel - Primary" and ________. These are officially marked and maintained. Marked Channel - Tertiary = Smaller navigation thoroughfares usually accommodating only local small boat traffic. These are officially marked and maintained. Marked Channel - Local Terminus = Navigation route of limited distance providing ingress/egress for shore facilities. While these are marked the AtoNs can be privately maintained and not of same standards as officially maintained thoroughfares. Unmarked - Local Terminus = Navigation route of limited distance providing ingress/egress for shore facilities. These are most likely not marked with AtoNs although some might be marked with small posts or stakes. General Pathway = Commonly used navigational thoroughfare not marked by AtoNs. These routes often connect marked channels across bays, transit along the course of a river, though an inlet, between islands, or run parallel just offshore in open waters. The position of these routes can be "fuzzy" as navigation is often not constrained by water depth. Offshore Route = Navigation thoroughfares commonly used by ocean going vessels in offshore transit between ports. Although not marked by AtoNs these thoroughfares might be delineated on charts as "safety zones." The position of these routes can be "fuzzy" as navigation is often not constrained by water depth. Unmarked Shallow Water Route = These are routes of moderate distance requiring local knowledge for safe transit. It is usually a linear or winding pathway through extremely shallow waters. The positions of these data are intended only to indicate the presence of such a route. The position does not indicate the precise location of the route. In other words, do not use these data for navigation or you will end up aground. Unmarked Short Cut = These are routes of limited distance requiring local knowledge for safe transit. These routes usually cut though navigation hazards such as oyster beds or sand bars. The positions of these data are intended only to indicate the presence of such a route. The position does not indicate the precise location of the route. In other words, do not use these data for navigation or you will end up on an oyster bar.</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+                <attrdef>The name of the water body in which the navigation pathway is located.</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+                    <cntper>GISLibrarian</cntper>
+                </cntorgp>
+                <cntpos>GIS Data Librarian</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</address>
+                    <city>St. Petersburg</city>
+                    <state>Florida</state>
+                    <postal>33701</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>727-896-8626</cntvoice>
+                <cntfax>727-893-1679</cntfax>
+                <cntemail>GISLibrarian@MyFWC.com</cntemail>
+                <hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+            </cntinfo>
+        </distrib>
+        <distliab>This data set is in the public domain, and the recipient may not assert any proprietary rights thereto nor represent it to anyone as other than a FWC-FWRI produced data set or the appropriate originator; it is provided "as-is" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The user assumes all responsibility for the accuracy and suitability of this data set for a specific application. In no event will the staff of the Fish and Wildlife Research Institute be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or the inability to use this data set.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>SHP</formname>
+                </digtinfo>
+            </digform>
+            <fees>None. However, persons or organizations requesting information must provide transfer media if FTP is not available and must pay express shipping costs if express shipping is required.</fees>
+            <ordering>Contact GIS Librarian by e-mail, telephone, or letter explaining which products are needed and providing a brief description of how the products will be used. Also, provide name and address of the person or organization requesting the products.</ordering>
+            <turnarnd>Usually within 10 business days, although, complex requests may take longer</turnarnd>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20040318</metd>
+        <metrd>20060503</metrd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+                    <cntper>GISLibrarian</cntper>
+                </cntorgp>
+                <cntpos>GIS Data Librarian</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</address>
+                    <city>St. Petersburg</city>
+                    <state>Florida</state>
+                    <postal>33701</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>727-896-8626</cntvoice>
+                <cntfax>727-893-1679</cntfax>
+                <cntemail>GISLibrarian@MyFWC.com</cntemail>
+                <hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+        <metac>No restrictions on metadata</metac>
+        <metuc>Metadata must be distributed with the data set</metuc>
+        <metsi>
+            <metscs>FWRI-MC</metscs>
+            <metshd>Metadata must be distributed with the data set</metshd>
+        </metsi>
+    </metainfo>
+</metadata>
